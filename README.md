@@ -16,15 +16,15 @@ Visitors can also filter by city and after pressing enter all the sightings in t
 
 ![City_Filter](https://github.com/jaousley/UFOs/blob/main/images%20for%20readme/City_Filter.png)
 
-Visitors can filter by state
+Visitors can filter by state and after pressing enter all the sightings in that state will be shown
 
 ![State_Filter](https://github.com/jaousley/UFOs/blob/main/images%20for%20readme/State_Filter.png)
 
-Visitors can filter by Country
+Visitors can filter by Country and after pressing enter all the sightings in that country will be shown
 
 ![Country_Filter](https://github.com/jaousley/UFOs/blob/main/images%20for%20readme/Country_Filter.png)
 
-Visitors can filter by shape 
+Visitors can filter by shape and after pressing enter all the sightings with that shape will be shown
 
 ![Shape_Filter](https://github.com/jaousley/UFOs/blob/main/images%20for%20readme/Shape_Filter.png)
 
