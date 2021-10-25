@@ -30,4 +30,4 @@ Visitors can filter by shape and after pressing enter all the sightings with tha
 
 ## Summary
 
-One drawback of this new design  
+One drawback of this new design is the user still has to scroll through all of the data to even know what the options are for each category. It would be easier for users if there was a drop down arrow for each category showing all of the options. Another recommendation would be to have the sightings listed with the most recent at the top when the webpage first loads. Most likely people will be looking for information on something they recently saw so having the most recent sightings shown first would be more useful. 
